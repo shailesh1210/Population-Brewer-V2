@@ -1,0 +1,367 @@
+GEO_ID_2,GEO_ID,MSA,GQ_POP
+10180,310M100US10180,"Abilene, TX Metro Area",13503
+10420,310M100US10420,"Akron, OH Metro Area",15578
+10500,310M100US10500,"Albany, GA Metro Area",6850
+10580,310M100US10580,"Albany-Schenectady-Troy, NY Metro Area",33478
+10740,310M100US10740,"Albuquerque, NM Metro Area",13467
+10780,310M100US10780,"Alexandria, LA Metro Area",7525
+10900,310M100US10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",24879
+11020,310M100US11020,"Altoona, PA Metro Area",3500
+11100,310M100US11100,"Amarillo, TX Metro Area",4758
+11180,310M100US11180,"Ames, IA Metro Area",7529
+11260,310M100US11260,"Anchorage, AK Metro Area",8167
+11300,310M100US11300,"Anderson, IN Metro Area",5232
+11340,310M100US11340,"Anderson, SC Metro Area",3938
+11460,310M100US11460,"Ann Arbor, MI Metro Area",24157
+11500,310M100US11500,"Anniston-Oxford, AL Metro Area",2903
+11540,310M100US11540,"Appleton, WI Metro Area",2936
+11700,310M100US11700,"Asheville, NC Metro Area",11203
+12020,310M100US12020,"Athens-Clarke County, GA Metro Area",10674
+12060,310M100US12060,"Atlanta-Sandy Springs-Marietta, GA Metro Area",78993
+12100,310M100US12100,"Atlantic City-Hammonton, NJ Metro Area",13573
+12220,310M100US12220,"Auburn-Opelika, AL Metro Area",4587
+12260,310M100US12260,"Augusta-Richmond County, GA-SC Metro Area",19037
+12420,310M100US12420,"Austin-Round Rock-San Marcos, TX Metro Area",39096
+12540,310M100US12540,"Bakersfield-Delano, CA Metro Area",36751
+12580,310M100US12580,"Baltimore-Towson, MD Metro Area",69985
+12620,310M100US12620,"Bangor, ME Metro Area",7443
+12700,310M100US12700,"Barnstable Town, MA Metro Area",4147
+12940,310M100US12940,"Baton Rouge, LA Metro Area",25352
+12980,310M100US12980,"Battle Creek, MI Metro Area",2731
+13020,310M100US13020,"Bay City, MI Metro Area",1311
+13140,310M100US13140,"Beaumont-Port Arthur, TX Metro Area",17167
+13380,310M100US13380,"Bellingham, WA Metro Area",5268
+13460,310M100US13460,"Bend, OR Metro Area",904
+13740,310M100US13740,"Billings, MT Metro Area",3753
+13780,310M100US13780,"Binghamton, NY Metro Area",10596
+13820,310M100US13820,"Birmingham-Hoover, AL Metro Area",20547
+13900,310M100US13900,"Bismarck, ND Metro Area",2857
+13980,310M100US13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",17115
+14020,310M100US14020,"Bloomington, IN Metro Area",14782
+14060,310M100US14060,"Bloomington-Normal, IL Metro Area",9082
+14260,310M100US14260,"Boise City-Nampa, ID Metro Area",12878
+14460,310M100US14460,"Boston-Cambridge-Quincy, MA-NH Metro Area",153367
+14500,310M100US14500,"Boulder, CO Metro Area",11201
+14540,310M100US14540,"Bowling Green, KY Metro Area",6091
+14740,310M100US14740,"Bremerton-Silverdale, WA Metro Area",5193
+14860,310M100US14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",21959
+15180,310M100US15180,"Brownsville-Harlingen, TX Metro Area",2684
+15260,310M100US15260,"Brunswick, GA Metro Area",872
+15380,310M100US15380,"Buffalo-Niagara Falls, NY Metro Area",31573
+15500,310M100US15500,"Burlington, NC Metro Area",3835
+15540,310M100US15540,"Burlington-South Burlington, VT Metro Area",9532
+15940,310M100US15940,"Canton-Massillon, OH Metro Area",9652
+15980,310M100US15980,"Cape Coral-Fort Myers, FL Metro Area",7281
+16020,310M100US16020,"Cape Girardeau-Jackson, MO-IL Metro Area",4142
+16180,310M100US16180,"Carson City, NV Metro Area",1087
+16220,310M100US16220,"Casper, WY Metro Area",2030
+16300,310M100US16300,"Cedar Rapids, IA Metro Area",7284
+16580,310M100US16580,"Champaign-Urbana, IL Metro Area",18247
+16620,310M100US16620,"Charleston, WV Metro Area",3355
+16700,310M100US16700,"Charleston-North Charleston-Summerville, SC Metro Area",16370
+16740,310M100US16740,"Charlotte-Gastonia-Rock Hill, NC-SC Metro Area",26336
+16820,310M100US16820,"Charlottesville, VA Metro Area",10041
+16860,310M100US16860,"Chattanooga, TN-GA Metro Area",10780
+16940,310M100US16940,"Cheyenne, WY Metro Area",1751
+16980,310M100US16980,"Chicago-Joliet-Naperville, IL-IN-WI Metro Area",156139
+17020,310M100US17020,"Chico, CA Metro Area",5115
+17140,310M100US17140,"Cincinnati-Middletown, OH-KY-IN Metro Area",49122
+17300,310M100US17300,"Clarksville, TN-KY Metro Area",9348
+17420,310M100US17420,"Cleveland, TN Metro Area",2630
+17460,310M100US17460,"Cleveland-Elyria-Mentor, OH Metro Area",44492
+17660,310M100US17660,"Coeur d'Alene, ID Metro Area",1101
+17780,310M100US17780,"College Station-Bryan, TX Metro Area",13874
+17820,310M100US17820,"Colorado Springs, CO Metro Area",17640
+17860,310M100US17860,"Columbia, MO Metro Area",10764
+17900,310M100US17900,"Columbia, SC Metro Area",32978
+17980,310M100US17980,"Columbus, GA-AL Metro Area",20129
+18020,310M100US18020,"Columbus, IN Metro Area",1175
+18140,310M100US18140,"Columbus, OH Metro Area",45361
+18580,310M100US18580,"Corpus Christi, TX Metro Area",8343
+18700,310M100US18700,"Corvallis, OR Metro Area",5514
+18880,310M100US18880,"Crestview-Fort Walton Beach-Destin, FL Metro Area",5210
+19060,310M100US19060,"Cumberland, MD-WV Metro Area",7818
+19100,310M100US19100,"Dallas-Fort Worth-Arlington, TX Metro Area",92549
+19140,310M100US19140,"Dalton, GA Metro Area",1132
+19180,310M100US19180,"Danville, IL Metro Area",1418
+19260,310M100US19260,"Danville, VA Metro Area",3100
+19340,310M100US19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",8779
+19380,310M100US19380,"Dayton, OH Metro Area",26414
+19460,310M100US19460,"Decatur, AL Metro Area",2019
+19500,310M100US19500,"Decatur, IL Metro Area",3369
+19660,310M100US19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",15238
+19740,310M100US19740,"Denver-Aurora-Broomfield, CO Metro Area",29465
+19780,310M100US19780,"Des Moines-West Des Moines, IA Metro Area",10765
+19820,310M100US19820,"Detroit-Warren-Livonia, MI Metro Area",50809
+20020,310M100US20020,"Dothan, AL Metro Area",1850
+20100,310M100US20100,"Dover, DE Metro Area",3874
+20220,310M100US20220,"Dubuque, IA Metro Area",4564
+20260,310M100US20260,"Duluth, MN-WI Metro Area",12653
+20500,310M100US20500,"Durham-Chapel Hill, NC Metro Area",25026
+20740,310M100US20740,"Eau Claire, WI Metro Area",6050
+20940,310M100US20940,"El Centro, CA Metro Area",10201
+21060,310M100US21060,"Elizabethtown, KY Metro Area",4414
+21140,310M100US21140,"Elkhart-Goshen, IN Metro Area",2497
+21300,310M100US21300,"Elmira, NY Metro Area",5936
+21340,310M100US21340,"El Paso, TX Metro Area",12458
+21500,310M100US21500,"Erie, PA Metro Area",12831
+21660,310M100US21660,"Eugene-Springfield, OR Metro Area",10001
+21780,310M100US21780,"Evansville, IN-KY Metro Area",9536
+21820,310M100US21820,"Fairbanks, AK Metro Area",3595
+22020,310M100US22020,"Fargo, ND-MN Metro Area",9882
+22140,310M100US22140,"Farmington, NM Metro Area",1677
+22180,310M100US22180,"Fayetteville, NC Metro Area",15389
+22220,310M100US22220,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",9244
+22380,310M100US22380,"Flagstaff, AZ Metro Area",7778
+22420,310M100US22420,"Flint, MI Metro Area",4962
+22500,310M100US22500,"Florence, SC Metro Area",4761
+22520,310M100US22520,"Florence-Muscle Shoals, AL Metro Area",2937
+22540,310M100US22540,"Fond du Lac, WI Metro Area",2492
+22660,310M100US22660,"Fort Collins-Loveland, CO Metro Area",9508
+22900,310M100US22900,"Fort Smith, AR-OK Metro Area",3745
+23060,310M100US23060,"Fort Wayne, IN Metro Area",6506
+23420,310M100US23420,"Fresno, CA Metro Area",18253
+23460,310M100US23460,"Gadsden, AL Metro Area",1719
+23540,310M100US23540,"Gainesville, FL Metro Area",18853
+23580,310M100US23580,"Gainesville, GA Metro Area",4515
+24020,310M100US24020,"Glens Falls, NY Metro Area",5437
+24140,310M100US24140,"Goldsboro, NC Metro Area",4020
+24220,310M100US24220,"Grand Forks, ND-MN Metro Area",6207
+24300,310M100US24300,"Grand Junction, CO Metro Area",2999
+24340,310M100US24340,"Grand Rapids-Wyoming, MI Metro Area",18464
+24500,310M100US24500,"Great Falls, MT Metro Area",2119
+24540,310M100US24540,"Greeley, CO Metro Area",5097
+24580,310M100US24580,"Green Bay, WI Metro Area",7811
+24660,310M100US24660,"Greensboro-High Point, NC Metro Area",17602
+24780,310M100US24780,"Greenville, NC Metro Area",8316
+24860,310M100US24860,"Greenville-Mauldin-Easley, SC Metro Area",24252
+25060,310M100US25060,"Gulfport-Biloxi, MS Metro Area",6765
+25180,310M100US25180,"Hagerstown-Martinsburg, MD-WV Metro Area",8349
+25260,310M100US25260,"Hanford-Corcoran, CA Metro Area",17241
+25420,310M100US25420,"Harrisburg-Carlisle, PA Metro Area",19641
+25500,310M100US25500,"Harrisonburg, VA Metro Area",11389
+25540,310M100US25540,"Hartford-West Hartford-East Hartford, CT Metro Area",48295
+25620,310M100US25620,"Hattiesburg, MS Metro Area",4091
+25860,310M100US25860,"Hickory-Lenoir-Morganton, NC Metro Area",6343
+25980,310M100US25980,"Hinesville-Fort Stewart, GA Metro Area",1591
+26100,310M100US26100,"Holland-Grand Haven, MI Metro Area",7989
+26180,310M100US26180,"Honolulu, HI Metro Area",34152
+26300,310M100US26300,"Hot Springs, AR Metro Area",1700
+26380,310M100US26380,"Houma-Bayou Cane-Thibodaux, LA Metro Area",3074
+26420,310M100US26420,"Houston-Sugar Land-Baytown, TX Metro Area",72532
+26580,310M100US26580,"Huntington-Ashland, WV-KY-OH Metro Area",6276
+26620,310M100US26620,"Huntsville, AL Metro Area",10661
+26820,310M100US26820,"Idaho Falls, ID Metro Area",901
+26900,310M100US26900,"Indianapolis-Carmel, IN Metro Area",35276
+26980,310M100US26980,"Iowa City, IA Metro Area",8866
+27060,310M100US27060,"Ithaca, NY Metro Area",13483
+27100,310M100US27100,"Jackson, MI Metro Area",8733
+27140,310M100US27140,"Jackson, MS Metro Area",16198
+27180,310M100US27180,"Jackson, TN Metro Area",3712
+27260,310M100US27260,"Jacksonville, FL Metro Area",24903
+27340,310M100US27340,"Jacksonville, NC Metro Area",18836
+27500,310M100US27500,"Janesville, WI Metro Area",2724
+27620,310M100US27620,"Jefferson City, MO Metro Area",10305
+27740,310M100US27740,"Johnson City, TN Metro Area",6179
+27780,310M100US27780,"Johnstown, PA Metro Area",7591
+27860,310M100US27860,"Jonesboro, AR Metro Area",3387
+27900,310M100US27900,"Joplin, MO Metro Area",3270
+28020,310M100US28020,"Kalamazoo-Portage, MI Metro Area",9102
+28100,310M100US28100,"Kankakee-Bradley, IL Metro Area",4291
+28140,310M100US28140,"Kansas City, MO-KS Metro Area",27923
+28420,310M100US28420,"Kennewick-Pasco-Richland, WA Metro Area",2387
+28660,310M100US28660,"Killeen-Temple-Fort Hood, TX Metro Area",18666
+28700,310M100US28700,"Kingsport-Bristol-Bristol, TN-VA Metro Area",6378
+28740,310M100US28740,"Kingston, NY Metro Area",11995
+28940,310M100US28940,"Knoxville, TN Metro Area",16489
+29020,310M100US29020,"Kokomo, IN Metro Area",2856
+29100,310M100US29100,"La Crosse, WI-MN Metro Area",5616
+29140,310M100US29140,"Lafayette, IN Metro Area",15358
+29180,310M100US29180,"Lafayette, LA Metro Area",6715
+29340,310M100US29340,"Lake Charles, LA Metro Area",3323
+29420,310M100US29420,"Lake Havasu City-Kingman, AZ Metro Area",3145
+29460,310M100US29460,"Lakeland-Winter Haven, FL Metro Area",13151
+29540,310M100US29540,"Lancaster, PA Metro Area",14429
+29620,310M100US29620,"Lansing-East Lansing, MI Metro Area",22605
+29700,310M100US29700,"Laredo, TX Metro Area",1332
+29740,310M100US29740,"Las Cruces, NM Metro Area",5899
+29820,310M100US29820,"Las Vegas-Paradise, NV Metro Area",21043
+29940,310M100US29940,"Lawrence, KS Metro Area",9985
+30020,310M100US30020,"Lawton, OK Metro Area",11446
+30140,310M100US30140,"Lebanon, PA Metro Area",3838
+30300,310M100US30300,"Lewiston, ID-WA Metro Area",811
+30340,310M100US30340,"Lewiston-Auburn, ME Metro Area",4733
+30460,310M100US30460,"Lexington-Fayette, KY Metro Area",15629
+30620,310M100US30620,"Lima, OH Metro Area",4236
+30700,310M100US30700,"Lincoln, NE Metro Area",15589
+30780,310M100US30780,"Little Rock-North Little Rock-Conway, AR Metro Area",15941
+30860,310M100US30860,"Logan, UT-ID Metro Area",2743
+30980,310M100US30980,"Longview, TX Metro Area",9132
+31020,310M100US31020,"Longview, WA Metro Area",2516
+31100,310M100US31100,"Los Angeles-Long Beach-Santa Ana, CA Metro Area",227679
+31140,310M100US31140,"Louisville/Jefferson County, KY-IN Metro Area",25280
+31180,310M100US31180,"Lubbock, TX Metro Area",11775
+31340,310M100US31340,"Lynchburg, VA Metro Area",11269
+31420,310M100US31420,"Macon, GA Metro Area",9077
+31460,310M100US31460,"Madera-Chowchilla, CA Metro Area",9022
+31540,310M100US31540,"Madison, WI Metro Area",15842
+31700,310M100US31700,"Manchester-Nashua, NH Metro Area",8884
+31740,310M100US31740,"Manhattan, KS Metro Area",8512
+31860,310M100US31860,"Mankato-North Mankato, MN Metro Area",5962
+31900,310M100US31900,"Mansfield, OH Metro Area",7073
+32580,310M100US32580,"McAllen-Edinburg-Mission, TX Metro Area",4620
+32780,310M100US32780,"Medford, OR Metro Area",3199
+32820,310M100US32820,"Memphis, TN-MS-AR Metro Area",28581
+32900,310M100US32900,"Merced, CA Metro Area",3548
+33100,310M100US33100,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",102261
+33140,310M100US33140,"Michigan City-La Porte, IN Metro Area",7391
+33260,310M100US33260,"Midland, TX Metro Area",1309
+33340,310M100US33340,"Milwaukee-Waukesha-West Allis, WI Metro Area",30354
+33460,310M100US33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",62210
+33540,310M100US33540,"Missoula, MT Metro Area",3342
+33660,310M100US33660,"Mobile, AL Metro Area",7813
+33700,310M100US33700,"Modesto, CA Metro Area",7734
+33740,310M100US33740,"Monroe, LA Metro Area",5126
+33780,310M100US33780,"Monroe, MI Metro Area",1490
+33860,310M100US33860,"Montgomery, AL Metro Area",16387
+34060,310M100US34060,"Morgantown, WV Metro Area",9948
+34100,310M100US34100,"Morristown, TN Metro Area",2911
+34580,310M100US34580,"Mount Vernon-Anacortes, WA Metro Area",1696
+34620,310M100US34620,"Muncie, IN Metro Area",7804
+34740,310M100US34740,"Muskegon-Norton Shores, MI Metro Area",6542
+34820,310M100US34820,"Myrtle Beach-North Myrtle Beach-Conway, SC Metro Area",2537
+34900,310M100US34900,"Napa, CA Metro Area",5470
+34940,310M100US34940,"Naples-Marco Island, FL Metro Area",2178
+34980,310M100US34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",35419
+35300,310M100US35300,"New Haven-Milford, CT Metro Area",26993
+35380,310M100US35380,"New Orleans-Metairie-Kenner, LA Metro Area",21222
+35620,310M100US35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",383811
+35660,310M100US35660,"Niles-Benton Harbor, MI Metro Area",3654
+35840,310M100US35840,"North Port-Bradenton-Sarasota, FL Metro Area",7762
+35980,310M100US35980,"Norwich-New London, CT Metro Area",13746
+36100,310M100US36100,"Ocala, FL Metro Area",6180
+36140,310M100US36140,"Ocean City, NJ Metro Area",2137
+36220,310M100US36220,"Odessa, TX Metro Area",1640
+36260,310M100US36260,"Ogden-Clearfield, UT Metro Area",5080
+36420,310M100US36420,"Oklahoma City, OK Metro Area",28748
+36500,310M100US36500,"Olympia, WA Metro Area",3638
+36540,310M100US36540,"Omaha-Council Bluffs, NE-IA Metro Area",16555
+36740,310M100US36740,"Orlando-Kissimmee-Sanford, FL Metro Area",29585
+36780,310M100US36780,"Oshkosh-Neenah, WI Metro Area",9624
+36980,310M100US36980,"Owensboro, KY Metro Area",3658
+37100,310M100US37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",10245
+37340,310M100US37340,"Palm Bay-Melbourne-Titusville, FL Metro Area",7563
+37380,310M100US37380,"Palm Coast, FL Metro Area",498
+37460,310M100US37460,"Panama City-Lynn Haven-Panama City Beach, FL Metro Area",4612
+37620,310M100US37620,"Parkersburg-Marietta-Vienna, WV-OH Metro Area",2878
+37700,310M100US37700,"Pascagoula, MS Metro Area",1814
+37860,310M100US37860,"Pensacola-Ferry Pass-Brent, FL Metro Area",24683
+37900,310M100US37900,"Peoria, IL Metro Area",11506
+37980,310M100US37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",169083
+38060,310M100US38060,"Phoenix-Mesa-Glendale, AZ Metro Area",72311
+38220,310M100US38220,"Pine Bluff, AR Metro Area",7196
+38300,310M100US38300,"Pittsburgh, PA Metro Area",63546
+38340,310M100US38340,"Pittsfield, MA Metro Area",5948
+38540,310M100US38540,"Pocatello, ID Metro Area",1734
+38860,310M100US38860,"Portland-South Portland-Biddeford, ME Metro Area",11479
+38900,310M100US38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",34548
+38940,310M100US38940,"Port St. Lucie, FL Metro Area",6434
+39100,310M100US39100,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",33919
+39140,310M100US39140,"Prescott, AZ Metro Area",4162
+39300,310M100US39300,"Providence-New Bedford-Fall River, RI-MA Metro Area",58308
+39340,310M100US39340,"Provo-Orem, UT Metro Area",13682
+39380,310M100US39380,"Pueblo, CO Metro Area",4300
+39460,310M100US39460,"Punta Gorda, FL Metro Area",2193
+39540,310M100US39540,"Racine, WI Metro Area",6606
+39580,310M100US39580,"Raleigh-Cary, NC Metro Area",23302
+39660,310M100US39660,"Rapid City, SD Metro Area",3584
+39740,310M100US39740,"Reading, PA Metro Area",14660
+39820,310M100US39820,"Redding, CA Metro Area",2526
+39900,310M100US39900,"Reno-Sparks, NV Metro Area",8272
+40060,310M100US40060,"Richmond, VA Metro Area",42147
+40140,310M100US40140,"Riverside-San Bernardino-Ontario, CA Metro Area",70741
+40220,310M100US40220,"Roanoke, VA Metro Area",7915
+40340,310M100US40340,"Rochester, MN Metro Area",3180
+40380,310M100US40380,"Rochester, NY Metro Area",43788
+40420,310M100US40420,"Rockford, IL Metro Area",6045
+40580,310M100US40580,"Rocky Mount, NC Metro Area",3805
+40660,310M100US40660,"Rome, GA Metro Area",3846
+40900,310M100US40900,"Sacramento--Arden-Arcade--Roseville, CA Metro Area",41947
+40980,310M100US40980,"Saginaw-Saginaw Township North, MI Metro Area",5269
+41060,310M100US41060,"St. Cloud, MN Metro Area",10718
+41100,310M100US41100,"St. George, UT Metro Area",1147
+41140,310M100US41140,"St. Joseph, MO-KS Metro Area",7992
+41180,310M100US41180,"St. Louis, MO-IL Metro Area",61422
+41420,310M100US41420,"Salem, OR Metro Area",14276
+41500,310M100US41500,"Salinas, CA Metro Area",17479
+41540,310M100US41540,"Salisbury, MD Metro Area",10369
+41620,310M100US41620,"Salt Lake City, UT Metro Area",14712
+41660,310M100US41660,"San Angelo, TX Metro Area",5495
+41700,310M100US41700,"San Antonio-New Braunfels, TX Metro Area",46395
+41740,310M100US41740,"San Diego-Carlsbad-San Marcos, CA Metro Area",104347
+41780,310M100US41780,"Sandusky, OH Metro Area",1736
+41860,310M100US41860,"San Francisco-Oakland-Fremont, CA Metro Area",74344
+41940,310M100US41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",33376
+42020,310M100US42020,"San Luis Obispo-Paso Robles, CA Metro Area",16871
+42060,310M100US42060,"Santa Barbara-Santa Maria-Goleta, CA Metro Area",18024
+42100,310M100US42100,"Santa Cruz-Watsonville, CA Metro Area",10298
+42140,310M100US42140,"Santa Fe, NM Metro Area",2843
+42220,310M100US42220,"Santa Rosa-Petaluma, CA Metro Area",9775
+42340,310M100US42340,"Savannah, GA Metro Area",8077
+42540,310M100US42540,"Scranton--Wilkes-Barre, PA Metro Area",19492
+42660,310M100US42660,"Seattle-Tacoma-Bellevue, WA Metro Area",67102
+42680,310M100US42680,"Sebastian-Vero Beach, FL Metro Area",1335
+43100,310M100US43100,"Sheboygan, WI Metro Area",3080
+43300,310M100US43300,"Sherman-Denison, TX Metro Area",3116
+43340,310M100US43340,"Shreveport-Bossier City, LA Metro Area",9920
+43580,310M100US43580,"Sioux City, IA-NE-SD Metro Area",4133
+43620,310M100US43620,"Sioux Falls, SD Metro Area",6679
+43780,310M100US43780,"South Bend-Mishawaka, IN-MI Metro Area",13847
+43900,310M100US43900,"Spartanburg, SC Metro Area",7628
+44060,310M100US44060,"Spokane, WA Metro Area",16034
+44100,310M100US44100,"Springfield, IL Metro Area",4045
+44140,310M100US44140,"Springfield, MA Metro Area",40581
+44180,310M100US44180,"Springfield, MO Metro Area",15834
+44220,310M100US44220,"Springfield, OH Metro Area",3018
+44300,310M100US44300,"State College, PA Metro Area",18805
+44600,310M100US44600,"Steubenville-Weirton, OH-WV Metro Area",3609
+44700,310M100US44700,"Stockton, CA Metro Area",19421
+44940,310M100US44940,"Sumter, SC Metro Area",2898
+45060,310M100US45060,"Syracuse, NY Metro Area",25837
+45220,310M100US45220,"Tallahassee, FL Metro Area",20312
+45300,310M100US45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",46536
+45460,310M100US45460,"Terre Haute, IN Metro Area",12074
+45500,310M100US45500,"Texarkana, TX-Texarkana, AR Metro Area",5247
+45780,310M100US45780,"Toledo, OH Metro Area",17891
+45820,310M100US45820,"Topeka, KS Metro Area",4212
+45940,310M100US45940,"Trenton-Ewing, NJ Metro Area",15115
+46060,310M100US46060,"Tucson, AZ Metro Area",25425
+46140,310M100US46140,"Tulsa, OK Metro Area",13966
+46220,310M100US46220,"Tuscaloosa, AL Metro Area",7923
+46340,310M100US46340,"Tyler, TX Metro Area",3294
+46540,310M100US46540,"Utica-Rome, NY Metro Area",15583
+46660,310M100US46660,"Valdosta, GA Metro Area",5274
+46700,310M100US46700,"Vallejo-Fairfield, CA Metro Area",12078
+47020,310M100US47020,"Victoria, TX Metro Area",1493
+47220,310M100US47220,"Vineland-Millville-Bridgeton, NJ Metro Area",11117
+47260,310M100US47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",58724
+47300,310M100US47300,"Visalia-Porterville, CA Metro Area",5333
+47380,310M100US47380,"Waco, TX Metro Area",7268
+47580,310M100US47580,"Warner Robins, GA Metro Area",1916
+47900,310M100US47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",104353
+47940,310M100US47940,"Waterloo-Cedar Falls, IA Metro Area",7169
+48140,310M100US48140,"Wausau, WI Metro Area",1573
+48300,310M100US48300,"Wenatchee-East Wenatchee, WA Metro Area",1266
+48540,310M100US48540,"Wheeling, WV-OH Metro Area",7416
+48620,310M100US48620,"Wichita, KS Metro Area",8393
+48660,310M100US48660,"Wichita Falls, TX Metro Area",11470
+48700,310M100US48700,"Williamsport, PA Metro Area",4687
+48900,310M100US48900,"Wilmington, NC Metro Area",7446
+49020,310M100US49020,"Winchester, VA-WV Metro Area",3056
+49180,310M100US49180,"Winston-Salem, NC Metro Area",10993
+49340,310M100US49340,"Worcester, MA Metro Area",27805
+49420,310M100US49420,"Yakima, WA Metro Area",4324
+49620,310M100US49620,"York-Hanover, PA Metro Area",7549
+49660,310M100US49660,"Youngstown-Warren-Boardman, OH-PA Metro Area",17900
+49700,310M100US49700,"Yuba City, CA Metro Area",2561
+49740,310M100US49740,"Yuma, AZ Metro Area",5896

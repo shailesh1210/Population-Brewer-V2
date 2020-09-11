@@ -1,0 +1,166 @@
+COW,"Class of worker"
+
+0,"Not in universe (less than 16 years old/NILF who last worked more than 5 years ago or never worked)"
+1,"Employee of a private for-profit company or business, or of an individual, for wages, salary, or commissions"
+2  Employee of a private not-for-profit, tax-exempt, or charitable organization
+3  Local government employee (city, county, etc.)
+4  State government employee
+5  Federal government employee
+6  Self-employed in own not incorporated business, professional practice, or farm
+7  Self-employed in own incorporated business, professional practice or farm
+8  Working without pay in family business or farm
+9  Unemployed and last worked 5 years ago or earlier or never worked
+
+ESR Employment status recode
+
+0  N/A (less than 16 years old)
+1  Civilian employed, at work
+2  Civilian employed, with a job but not at work
+3  Unemployed
+4  Armed Forces, At Work
+5  Armed Forces, With a Job But Not At Work
+6  Not in Labor Force
+
+HISP Recoded detailed Hispanic origin
+
+01  Not Spanish/Hispanic/Latino
+02  Mexican
+03  Puerto Rican
+04  Cuban
+05  Dominican
+06  Costa Rican
+07  Guatemalan
+08  Honduran
+09  Nicaraguan
+10  Panamanian
+11  Salvadoran
+12  Other Central American
+13  Argentinean
+14  Bolivian
+15  Chilean
+16  Colombian
+17  Ecuadorian
+18  Paraguayan
+19  Peruvian
+20  Uruguayan
+21  Venezuelan
+22  Other South American
+23  Spaniard
+24  All other Spanish/Hispanic/Latino
+
+MAR Marital status
+
+1  Married
+2  Widowed
+3  Divorced
+4  Separated
+5  Never married or under 15 years old
+
+MSP Married, spouse present/spouse absent
+
+0  N/A (age less than 15 years)
+1  Now Married, Spouse Present
+2  Now Married, Spouse Absent
+3  Widowed
+4  Divorced
+5  Separated
+6  Never Married
+
+OC Own child
+
+0  No (includes GQ)
+1  Yes
+
+RAC1P Recoded detailed race code 
+
+1  White alone
+2  Black or African American alone
+3  American Indian alone
+4  Alaska Native alone
+5  American Indian and Alaska Native tribes specified; or American Indian or Alaska native, not specified and no other race
+6  Asian alone
+7  Native Hawaiian and Other Pacific Islander alone
+8  Some other race alone
+9  Two or More Races
+
+SCH School enrollment
+
+With the following Ranges:
+0  N/A (less than 3 years old)
+1  No, has not attended in the last 3 months
+2  Yes, public school or public college
+3  Yes, private school, private college, or home school
+
+SEX Sex
+
+1  Male
+2  Female
+
+SFR Subfamily relationship
+
+With the following Ranges:
+0  N/A (GQ/not in a subfamily)
+1  Husband/wife no children
+2  Husband/wife with children
+3  Parent in a parent/child subfamily
+4  Child in a married-couple subfamily
+5  Child in a mother-child subfamily
+6  Child in a father-child subfamily
+
+RELP Relationship
+
+00  Reference person
+01  Husband/wife
+02  Biological son or daughter
+03  Adopted son or daughter
+04  Stepson or stepdaughter
+05  Brother or sister
+06  Father or mother
+07  Grandchild
+08  Parent-in-law
+09  Son-in-law or daughter-in-law
+10  Other relative
+11  Roomer or boarder
+12  Housemate or roommate
+13  Unmarried partner
+14  Foster child
+15  Other nonrelative
+16  Institutionalized group quarters population
+17  Noninstitutionalized group quarters population
+
+SCHL
+Educational attainment
+
+0  N/A (less than 3 years old)
+01  No schooling completed
+02  Nursery school, preschool
+03  Kindergarten
+04  Grade 1
+05  Grade 2
+06  Grade 3
+07  Grade 4
+08  Grade 5
+09  Grade 6
+10  Grade 7
+11  Grade 8
+12  Grade 9
+13  Grade 10
+14  Grade 11
+15  12th grade - no diploma
+16  Regular high school diploma
+17  GED or alternative credential
+18  Some college, but less than 1 year
+19  1 or more years of college credit, no degree
+20  Associate's degree
+21  Bachelor's degree
+22  Master's degree
+23  Professional degree beyond a bachelor's degree
+24  Doctorate degree
+
+ADJINC Adjustment factor for income and earnings dollar amounts (6 implied decimal places)
+
+1001264  2015 factor (1.001264 * 1.00000000)
+1009585  2014 factor (1.008425 * 1.00115009)
+1025215  2013 factor (1.007549 * 1.01753361)
+1042852  2012 factor (1.010207 * 1.03231545)
+1073094  2011 factor (1.018237 * 1.05387409)

@@ -1,0 +1,196 @@
+COW,Class of worker
+0,Not in universe 
+1,Employee of a private for-profit company
+2,Employee of a private not-for-profit
+3,Local government employee 
+4,State government employee
+5,Federal government employee
+6,Self-employed in own not incorporated business
+7,Self-employed in own incorporated business
+8,Working without pay in family business
+9,Unemployed
+
+ESR,Employment status recode
+0,less than 16 years old
+1,Civilian employed at work
+2,Civilian employed with a job but not at work
+3,Unemployed
+4,Armed Forces At Work
+5,Armed Forces With a Job But Not At Work
+6,Not in Labor Force
+
+HISP,Recoded detailed Hispanic origin
+1,Not Spanish/Hispanic/Latino
+2,Mexican
+3,Puerto Rican
+4,Cuban
+5,Dominican
+6,Costa Rican
+7,Guatemalan
+8,Honduran
+9,Nicaraguan
+10,Panamanian
+11,Salvadoran
+12,Other Central American
+13,Argentinean
+14,Bolivian
+15,Chilean
+16,Colombian
+17,Ecuadorian
+18,Paraguayan
+19,Peruvian
+20,Uruguayan
+21,Venezuelan
+22,Other South American
+23,Spaniard
+24,All other Spanish/Hispanic/Latino
+
+MAR,Marital status
+1,Married
+2,Widowed
+3,Divorced
+4,Separated
+5,Never married or under 15 years old
+
+MSP,Married-spouse present/spouse absent
+0,N/A (age less than 15 years)
+1,Now Married-Spouse Present
+2,Now Married-Spouse Absent
+3,Widowed
+4,Divorced
+5,Separated
+6,Never Married
+
+OC,Own child
+0,No
+1,Yes
+
+RAC1P,Recoded detailed race code 
+1,White alone
+2,Black alone
+3,American Indian alone
+4,Alaska Native alone
+5,American Indian & Alaska Native
+6,Asian alone
+7,Native Hawaiian & Pacific Islander
+8,Some other
+9,Two or More
+
+SCH,School enrollment
+0,N/A (less than 3 years old)
+1,No-has not attended in the last 3 months
+2,Yes-public school or public college
+3,Yes-private school
+
+SEX,Sex
+1,Male
+2,Female
+
+SFR,Subfamily relationship
+With the following Ranges:,
+0,N/A (GQ/not in a subfamily)
+1,Husband/wife no children
+2,Husband/wife with children
+3,Parent in a parent/child subfamily
+4,Child in a married-couple subfamily
+5,Child in a mother-child subfamily
+6,Child in a father-child subfamily
+
+RELP,Relationship
+0,Reference person
+1,Husband/wife
+2,Biological son or daughter
+3,Adopted son or daughter
+4,Stepson or stepdaughter
+5,Brother or sister
+6,Father or mother
+7,Grandchild
+8,Parent-in-law
+9,Son-in-law or daughter-in-law
+10,Other relative
+11,Roomer or boarder
+12,Housemate or roommate
+13,Unmarried partner
+14,Foster child
+15,Other nonrelative
+16,Institutionalized group quarters population
+17,Noninstitutionalized group quarters population
+
+SCHL,Educational attainment
+1,No schooling completed
+2,Nursery school
+3,Kindergarten
+4,Grade 1
+5,Grade 2
+6,Grade 3
+7,Grade 4
+8,Grade 5
+9,Grade 6
+10,Grade 7
+11,Grade 8
+12,Grade 9
+13,Grade 10
+14,Grade 11
+15,12th grade
+16,High School
+17,GED
+18,Some college-Less than a year
+19,Some College-More than a year
+20,Associate's degree
+21,Bachelor's degree
+22,Master's degree
+23,Professional school degree
+24,Doctorate degree
+
+AGEP, Age Category
+4,1
+9,2
+14,3
+17,4
+19,5
+20,6
+21,7
+24,8
+29,9
+34,10
+39,11
+44,12
+49,13
+54,14
+59,15
+61,16
+64,17
+66,18
+69,19
+74,20
+79,21
+84,22
+150,23
+
+HHT, Household type
+1,Married couple-family
+2,Male householder-family
+3,Female householder-family
+4,Male householder-living alone-nonfamily
+5,Male householder-not living alone-nonfamily
+6,Female householder-living alone-nonfamily
+7,Female householder-not living alone-nonfamily
+
+HINCP, Household income
+10000,HHInc1
+15000,HHInc2
+25000,HHInc3
+35000,HHInc4
+50000,HHInc5
+75000,HHInc6
+100000,HHInc7
+150000,HHInc8
+200000,HHInc9
+5000000,HHInc10
+
+ADJINC,Adjustment factor for income and earnings dollar amounts (6 implied decimal places)
+1001264,2015 factor (1.001264 * 1.00000000)
+1009585,2014 factor (1.008425 * 1.00115009)
+1025215,2013 factor (1.007549 * 1.01753361)
+1042852,2012 factor (1.010207 * 1.03231545)
+1073094,2011 factor (1.018237 * 1.05387409)

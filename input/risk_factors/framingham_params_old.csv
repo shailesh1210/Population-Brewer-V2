@@ -1,0 +1,34 @@
+Variable,Value1,Value2
+num_years, 10, 0
+num_trials, 1, 0
+beta_age_fhs,52.009610,31.764001
+beta_tchols_fhs,20.014077,22.465206
+beta_hdl_fhs,-0.905964,-1.187731
+beta_sbp_fhs,1.305784,2.552905
+beta_trt_sbp_fhs,0.241549,0.420251
+beta_smoker_fhs,12.096316,13.075430
+beta_age_tchols_fhs,-4.605038,-5.060998
+beta_age_smoker_fhs,-2.843670,-2.996945
+beta_sq_age_fhs,-2.933230,0
+beta_tchols_score, 0.24, 0
+beta_sbp_score, 0.018, 0
+beta_smoker_score, 0.71, 0
+chd_survival_fhs, 0.9402, 0.98767
+chd_survival_white_aric, 0.925, 0.971
+chd_survival_black_aric, 0.921, 0.954
+fatal_chd_survival_white_aric, 0.986, 0.995
+fatal_chd_survival_black_aric, 0.972, 0.989
+preval_change_smoking_white_HS,-0.01359, -0.00471
+preval_change_smoking_white_SC,-0.00198, -0.00589
+preval_change_smoking_black_HS, 0.01062, -0.01439
+preval_change_smoking_black_SC, 0.00119, -0.00927
+statin_uptake_white, 0.481, 0.488
+statin_uptake_black, 0.441, 0.448
+statin_cost, 146, 0
+ldl_change_statin, 28.19816708, 0
+hdl_change_statin, 2.928626692, 0
+trigly_change_statin, 12.15375334, 0
+life_exp_white_HS, 72, 79.3
+life_exp_white_SC, 78.2, 82.8
+life_exp_black_HS, 65.2, 74.4
+life_exp_black_SC, 72.3, 77.9
